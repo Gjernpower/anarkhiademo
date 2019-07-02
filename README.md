@@ -6,7 +6,7 @@ Anarkhia Readme (v1.0.0):
 
 Hi friends, thanks for taking the time out to try out this little demo/prototype I've been working on for a while now. Really the primary aim for this project was for me to familiarise myself with GameMaker Studio 2 as well as understanding coding & programming in general. However, I hope this does serve as proof of concept of a possible full game in future, and I will be working on this and adding features as time goes by.
 
-This is a weird rhythm-based RPG inspired by games like Brutal Legend, Crypt of the Necrodancer, Patapon, Guitar Hero and Final Fantasy. Please feel free to leave a comment or let me know what you like, what you don't, and what you think should be improved! Welcome to Anarkhia, enjoy your stay.
+This is a weird rhythm-based RPG inspired by games like <i>Brutal Legend, Crypt of the Necrodancer, Patapon, Guitar Hero</i> and <i>Final Fantasy</i>. Please feel free to leave a comment or let me know what you like, what you don't, and what you think should be improved! Welcome to Anarkhia, enjoy your stay.
 
 <i>p.s. I recommend choosing "Seven" and "Army" when prompted for the first time to choose a song.</i>
 

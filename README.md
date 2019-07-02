@@ -58,3 +58,4 @@ macOS:
 - Menu window: BlankPanel-2 by OhjiroChan on opengameart.org
 - Character sprites: 7soul’s RPG Graphics - Sprites on GameDev Market
 - UI sprites: GUI Icons on GameDev Market
+- Logo: Hatchful at hatchful.shopify.com

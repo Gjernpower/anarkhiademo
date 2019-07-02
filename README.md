@@ -2,7 +2,7 @@
 
 Anarkhia Readme (v1.0.0):
 
-Introduction:
+<b>Introduction:</b>
 
 Hi friends, thanks for taking the time out to try out this little demo/prototype I've been working on for a while now. Really the primary aim for this project was for me to familiarise myself with GameMaker Studio 2 as well as understanding coding & programming in general. However, I hope this does serve as proof of concept of a possible full game in future, and I will be working on this and adding features as time goes by.
 

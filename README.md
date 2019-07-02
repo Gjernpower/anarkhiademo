@@ -34,30 +34,25 @@ macOS:
 
 
 Controls:
-Up and down keys: navigate menu
-Space: confirm 
-C, V, B, N, M: note buttons
-Shift: strum
-P: pause/resume (also to close tutorial windows)
+- Up and down keys: navigate menu
+- Space: confirm 
+- C, V, B, N, M: note buttons
+- Shift: strum
+- P: pause/resume (also to close tutorial windows)
 
-Left key: resets selected actions for the current round
-Q: toggles tutorial on/off
+- Left key: resets selected actions for the current round
+- Q: toggles tutorial on/off
 
 Future updates:
-Further differentiate heroes - each hero to emulate a typical RPG class, eg. drummer is a paladin with aura buffs, guitarist is a mage with high targeted damage.
-
-Differentiate skills - different skills to have different effects and visual effects.
-
-Band leader - designated band leader will give a continuous passive effect or buff to certain stats.
-
-Limit/freestyle - a "special attack" that charges on certain conditions. When activated, hero can perform a freestyle solo for various effects.
-
-Items & fleeing - menu options to be implemented during combat.
-
-Options menu - to adjust controls, volume etc.
+- Further differentiate heroes - each hero to emulate a typical RPG class, eg. drummer is a paladin with aura buffs, guitarist is a mage with high targeted damage.
+- Differentiate skills - different skills to have different effects and visual effects.
+- Band leader - designated band leader will give a continuous passive effect or buff to certain stats.
+- Limit/freestyle - a "special attack" that charges on certain conditions. When activated, hero can perform a freestyle solo for various effects.
+- Items & fleeing - menu options to be implemented during combat.
+- Options menu - to adjust controls, volume etc.
 
 Credits:
-Background: battleback1 by Nidhoggn on opengameart.org
-Menu window: BlankPanel-2 by OhjiroChan on opengameart.org
-Character sprites: 7soul’s RPG Graphics - Sprites on GameDev Market
-UI sprites: GUI Icons on GameDev Market
+- Background: battleback1 by Nidhoggn on opengameart.org
+- Menu window: BlankPanel-2 by OhjiroChan on opengameart.org
+- Character sprites: 7soul’s RPG Graphics - Sprites on GameDev Market
+- UI sprites: GUI Icons on GameDev Market

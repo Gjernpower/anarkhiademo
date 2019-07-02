@@ -12,7 +12,7 @@ This is a weird rhythm-based RPG inspired by games like <i>Brutal Legend, Crypt 
 
 <b>Description:</b>
 
-Just <i>HOW</i> hard did you party last night? One moment you're chugging root beer with your bandmates, and the next you wake up covered in grass, strange creatures dancing around you. In your head is a faint ticking noise, a metronome, beckoning you to play to the beat. As you reach for your instrument, arcane energy pulses through your body, and you ready yourself for the performance of a lifetime.
+Just <i>HOW</i> hard did you party last night? One moment you're chugging root beer with your bandmates, and the next you wake up covered in grass, with strange creatures dancing around you. In your head is a faint ticking noise, a metronome, beckoning you to play to the beat. As you reach for your instrument, arcane energy pulses through your body, and you ready yourself for the performance of a lifetime.
 
 - Innovative gameplay that combines turn-based RPG combat (Final Fantasy) and rhythm games (Guitar Hero).
 - Take control of multiple band members and play different parts to create your own mixes and mashups.

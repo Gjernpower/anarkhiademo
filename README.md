@@ -8,7 +8,7 @@ Hi friends, thanks for taking the time out to try out this little demo/prototype
 
 This is a weird rhythm-based RPG inspired by games like <i>Brutal Legend, Crypt of the Necrodancer, Patapon, Guitar Hero</i> and <i>Final Fantasy</i>. Please feel free to leave a comment or let me know what you like, what you don't, and what you think should be improved! Welcome to Anarkhia, enjoy your stay.
 
-<i>p.s. I recommend choosing "Seven" and "Army" when prompted for the first time to choose a song.</i>
+<i>p.s. I recommend choosing "Seven" and "Army" when prompted to choose a song for the first time.</i>
 
 <b>Description:</b>
 

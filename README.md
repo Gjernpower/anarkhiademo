@@ -16,7 +16,7 @@ Just <i>HOW</i> hard did you party last night? One moment you're chugging root b
 
 - Innovative gameplay that combines turn-based RPG combat (Final Fantasy) and rhythm games (Guitar Hero).
 - Take control of multiple band members and play different parts to create your own mixes and mashups.
-- Skill trees and equipment to reflect how you want your band to play.
+- Skill trees and equipment choices reflect how you want your band to play.
 - Explore Anarkhia, a world divided into factions, with each following a different sub-genre of rock. Learn their ways and their music to achieve greater musical mastery.
 
 
